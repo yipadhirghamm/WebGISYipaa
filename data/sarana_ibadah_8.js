@@ -1,0 +1,23 @@
+var json_sarana_ibadah_8 = {
+"type": "FeatureCollection",
+"name": "sarana_ibadah_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Amin Sukadamai", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.267799, -0.238577 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Istiqamah Sukadamai", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.275451, -0.216228 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Hijrah Prangat Baru", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.280204, -0.200499 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid An Nur Prangat Baru", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.31369, -0.20293 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Nurul Huda Perangat Selatan", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.331008000000111, -0.158789 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Muminin Perangat Selatan", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.330886, -0.1435 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Barokah Makarti", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.337028, -0.114181 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Abah Nanang Sebuntal", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.368430980000085, -0.084171993999973 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Irsyad Semangko", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.453071019000049, -0.086639038999976 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Al Muhajirin Sebuntal", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.426054971000099, -0.109333963999973 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Babul Jannah Bungaputih", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.410176964000016, -0.142509033999943 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Sumber Taqwa Sebuntal", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.446289975000013, -0.114843975999975 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Nurul Mubin Tanjunglimau", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.39522700200007, -0.211235023999961 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Asadiyah Kersik", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.48693700900003, -0.059951981999973 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Nurul Yaqin Santan Ilir", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.486579018000043, -0.015494031999935 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Masjid Jihadul Muhajirin Sambera Baru", "LUAS": 0.0, "FGSIBD": "1", "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 117.377384026000072, -0.179866002999972 ] } }
+]
+}
